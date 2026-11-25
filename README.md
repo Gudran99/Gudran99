@@ -6,14 +6,14 @@
 
 ## Featured projects
 
-### Vaultkeeper
+### [Vaultkeeper](https://github.com/Gudran99/Vaultkeeper)
 Local-first password and two-factor authentication manager for Windows and Linux.
 
 - Encrypted local vaults using AES-256-GCM and Argon2id
 - TOTP, browser integration, password generation and encrypted backups
 - Python, JavaScript, HTML and CSS
 
-**Status:** Preparing for public release. No independent security audit yet.
+**Status:** Public source repository; development preview. No independent security audit yet.
 
 ### [PDF Studio](https://github.com/Gudran99/PDF-Studio)
 Free, browser-based PDF editor designed to process documents locally without uploading them to a server.
