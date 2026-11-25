@@ -1,33 +1,40 @@
 <h1 align="center">Gudran99</h1>
-<p align="center"><strong>Independent Developer · Software Tools · Game Development</strong></p>
-<p align="center">Building useful, accessible software with a focus on privacy and usability.</p>
+<p align="center"><strong>Independent Developer · Privacy-first Tools · Game Development</strong></p>
+<p align="center">Building useful and accessible software.</p>
 
 ---
 
-## About
+## Featured projects
 
-I build practical software tools and games. My goal is to make useful applications accessible, document my work clearly, and share reusable solutions with the open-source community.
+### Vaultkeeper
+Local-first password and two-factor authentication manager for Windows and Linux.
 
-## Projects
+- Encrypted local vaults using AES-256-GCM and Argon2id
+- TOTP, browser integration, password generation and encrypted backups
+- Python, JavaScript, HTML and CSS
 
-| Project | Description | Availability |
-| --- | --- | --- |
-| Free PDF Editor | A free tool for editing PDF documents. | Repository planned |
-| Password & 2FA Manager | Tools for managing passwords and two-factor authentication codes. | Repository planned |
-| Tank Fall | A mobile roguelite game built with Godot 4 and GDScript. | In development |
+**Status:** Preparing for public release. No independent security audit yet.
 
-## Areas of interest
+### PDF Studio
+Free, browser-based PDF editor designed to process documents locally without uploading them to a server.
 
-- Free and open-source software
-- Privacy-conscious application development
-- Game development with Godot and GDScript
+- Static web application using PDF.js and PDF-lib
+- HTML, CSS, JavaScript and WebAssembly
+- Deployable on static hosting without a build step
+
+**Status:** Preparing for public release.
+
+### Tank Fall
+Mobile roguelite game built with Godot 4 and GDScript.
+
+**Status:** In development.
+
+## Development priorities
+
+- Accessible software and privacy-conscious design
 - Clear documentation and maintainable code
-
-## What's next
-
-- Prepare project source code and documentation for public release.
-- Review privacy-sensitive code and remove secrets before publication.
-- Add installation guides, tests, and contribution instructions where applicable.
+- Testing and responsible public releases
+- Sharing reusable solutions with the open-source community
 
 ---
 
